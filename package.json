@@ -1,0 +1,46 @@
+{
+  "name": "iamdarshshah",
+  "version": "1.0.0",
+  "description": "🃏 npx business card",
+  "keywords": [
+    "npm",
+    "npx",
+    "chalk",
+    "business-card"
+  ],
+  "homepage": "https://github.com/iamdarshshah/business-card",
+  "bugs": {
+    "url": "https://github.com/iamdarshshah/business-card/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Darsh Shah",
+    "email": "imdarshshah@gmail.com",
+    "url": "https://darshshah.me"
+  },
+  "main": "src/index.js",
+  "bin": {
+    "iamdarshshah": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamdarshshah/business-card"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5"
+  },
+  "peerDependencies": {}
+}
