@@ -1,6 +1,6 @@
 # 🃏 business card
 
-<a href="https://www.npmjs.com/package/bradgarropy">
+<a href="https://www.npmjs.com/package/iamdarshshah">
     <img alt="npm" src="https://img.shields.io/npm/v/iamdarshshah.svg?style=flat-square">
 </a>
 
