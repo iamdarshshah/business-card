@@ -1,5 +1,9 @@
 # 🃏 business card
 
+<a href="https://www.npmjs.com/package/bradgarropy">
+    <img alt="npm" src="https://img.shields.io/npm/v/iamdarshshah.svg?style=flat-square">
+</a>
+
 _Digital business card._
 
 ### 📦 Installation

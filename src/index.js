@@ -28,16 +28,16 @@ const blankLine = base(border + spaces(width) + border)
 const card = `
     ${topBorder}
     ${blankLine}
-    ${border + spaces(4) + name(me.name, me.handle) + spaces(31) + border}
-    ${border + spaces(4) + title(me.title, me.company) + spaces(31) + border}
+    ${border + spaces(4) + name(me.name, me.handle) + spaces(32) + border}
+    ${border + spaces(4) + title(me.title, me.company) + spaces(29) + border}
     ${blankLine}
-    ${border + spaces(9) + link('Website', me.website) + spaces(20) + border}
-    ${border + spaces(10) + link('GitHub', me.github) + spaces(13) + border}
-    ${border + spaces(9) + link('Twitter', me.twitter) + spaces(12) + border}
-    ${border + spaces(8) + link('LinkedIn', me.linkedin) + spaces(8) + border}
+    ${border + spaces(9) + link('Website', me.website) + spaces(23) + border}
+    ${border + spaces(11) + link('GitHub', me.github) + spaces(11) + border}
+    ${border + spaces(9) + link('Twitter', me.twitter) + spaces(11) + border}
+    ${border + spaces(8) + link('LinkedIn', me.linkedin) + spaces(7) + border}
     ${blankLine}
     ${dividerLine}
-    ${border + spaces(44) + command(me.handle) + spaces(2) + border}
+    ${border + spaces(44) + command(me.handle) + spaces(1) + border}
     ${bottomBorder}
 `
 
