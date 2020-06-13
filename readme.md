@@ -6,6 +6,8 @@
 
 _Digital business card._
 
+![business card][card]
+
 ### 📦 Installation
 
 Installation is not required!, as you can run this package with [`npx`][npx].
