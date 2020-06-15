@@ -1,4 +1,4 @@
-# 🃏 business card
+# business card 🃏
 
 <a href="https://www.npmjs.com/package/iamdarshshah">
     <img alt="npm" src="https://img.shields.io/npm/v/iamdarshshah.svg?style=flat-square">
@@ -8,21 +8,17 @@ _Digital business card._
 
 ![business card][card]
 
-### 📦 Installation
+### Installation 📦
 
 Installation is not required!, as you can run this package with [`npx`][npx].
 
-### 🥑 Usage
+### Usage 🔑
 
 ```
 npx iamdarshshah
 ```
 
-### 🕺🏼 Create Your Own
-
-_In progress..._
-
-### 🎞 Credit
+### Credit 🎞
 
 Inspired by [J.C. Hiatt][jc] & [Brad Garropy][bg].  
 Accomplished with the help of this [article][article].
